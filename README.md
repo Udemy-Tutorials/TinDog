@@ -1,2 +1,1 @@
-# TinDog
- A page for TinDog project
+TinDog Starting Files
